@@ -1,0 +1,12 @@
+(1) host:
+                email-smtp.us-west-1.amazonaws.com
+
+(2) ports:
+                STARTTLS Port       => 25, 587 or 2587
+                TLS Wrapper Port    => 465 or 2465
+
+(3) username:
+                AKIA6CDK7PDMPIU7GOWU
+
+(4) password :
+                BB5hbTTDSF0N+5HOq0iDqnGnsvvsElQo4pTQGx0xhuXF
